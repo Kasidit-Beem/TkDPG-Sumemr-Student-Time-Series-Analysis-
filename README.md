@@ -1,2 +1,3 @@
 # TkDPG-Summer-Student-Time-Series-Analysis
-This is a summer student project at CERN in TkDPG section, we're trying to analyze the rate of data from CMS detector in order to monitor the run at which data taking from protons collision.
+This repository is the collection information of TkDPG Summer Student on Time Series Analysis project. The goal is to study time series analysis and see if it could help monitoring.
+
