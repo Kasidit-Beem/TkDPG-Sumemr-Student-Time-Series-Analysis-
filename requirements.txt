@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+statsmodels
+git+https://ksrimaha@gitlab.cern.ch/cmsoms/oms-api-client.git
+mplhep
+jupyter
